@@ -1,0 +1,35 @@
+@media (min-width: 992px) {
+
+    body {
+        text-align: center;
+        
+    }
+    
+    header {
+        background-color: #000;
+        color: white; 
+        height: 25vh; 
+    }
+    
+    .header-text {
+    
+        font-size: 20px; 
+        /* padding: 10%;  */
+        
+    }
+
+    nav {
+        height: 10vh;
+        background-color: darkred; 
+        padding-top: 25px; 
+    }
+
+    button {
+
+        background-color:;
+        }
+
+    .all-characters {
+        padding-top: 25px; 
+    }
+}
